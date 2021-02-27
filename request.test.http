@@ -1,0 +1,9 @@
+GET http://localhost:7777/messages HTTP/1.1
+
+###
+GET ws://localhost:7777/messages HTTP/1.1
+###
+
+DELETE http://localhost:7777/notes/0 HTTP/1.1
+
+###
